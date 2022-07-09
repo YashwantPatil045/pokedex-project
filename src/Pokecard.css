@@ -1,0 +1,10 @@
+.Pokecard {
+    display: flexbox;
+    background-color: white;
+    width: 400px;
+    text-align: center;
+    padding: 10px;
+    margin: 1rem;
+    box-shadow: 7px 10px 12px 0px rgba(0, 0, 0, 0.56);
+    border-radius: 1rem;
+}
